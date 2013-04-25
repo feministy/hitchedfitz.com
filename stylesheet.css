@@ -1,60 +1,81 @@
 body {
-    font-family: 'Arvo';
+    font-family: 'Josefin Slab';
     font-weight: 400;
 	background-color: #ffffff;
 }
 
 a {
-    color: #006699;
+    color: #000000;
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 400;
+}
+
+.green {
+    color: #009933;
+}
+
+.brown {
+    color: #996633;
+}
+
+.red {
+    color: #CC0000;
+}
+
+.blue {
+    color: #333FFF;
+}
+
+.purple {
+    color: #663399;
+}
+
+.orange {
+    color: #FF6600;
 }
 
 .header {
-    font-weight: 400;
-    font-family: 'Homemade Apple';
-    text-align: center;
-    font-size: 2em;
-}
-
-.bold {
     font-weight: 700;
+    font-size: 3em;
 }
 
-.normal {
-    font-weight: 400;
+.tiny {
+    font-size: 0.8em;
 }
 
-.italicsm {
-    font-style: italic;
-    font-weight: 400;
-    font-size: 0.7em;
+.subheader {
+    font-size: 1.5em;
 }
 
-.italic {
-    font-style: italic;
-    font-weight: 400;
-}
-
-.large {
-    font-size: 1em;
+.jumphead {
+    font-weight: 700;
+    font-size: 1.5em;
     text-align: center;
 }
 
-.small {
-    font-size: 0.8em;
-    line-height: 1.5em;
-    text-align: left;
+.content {
+    font-size: 1.05em;
+    text-align: justify;
+    line-height: 1.25em;
+}
+
+.nav {
+    font-size: 1.5em;
+}
+
+.rsvp {
+    font-size: 1.25em;
+    text-align: center;
 }
 
 #mainbody {
-    width: 900px;
-    margin: auto;
+    width: 750px;
+    margin: auto auto;
+    margin-top: 100px;
 }
 
-table, td, tr {
-    font-family: 'Arvo';
-    font-weight: 400;
-    padding: 5px;
-    vertical-align: top;
+#content {
+    width: 600px;
+    margin: auto auto;
+    margin-top: 400px;
 }
