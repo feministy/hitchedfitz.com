@@ -64,11 +64,11 @@ a {
 }
 
 .nav {
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
 .rsvp {
-    font-size: 1.25em;
+    font-size: 1.5em;
     text-align: center;
 }
 
@@ -81,5 +81,5 @@ a {
 #content {
     width: 600px;
     margin: auto auto;
-    margin-top: 400px;
+    margin-top: 500px;
 }
