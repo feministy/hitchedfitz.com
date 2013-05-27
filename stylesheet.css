@@ -1,85 +1,85 @@
 body {
-    font-family: 'Josefin Slab';
-    font-weight: 400;
-	background-color: #ffffff;
+font-family:'Josefin Slab';
+font-weight:400;
+background-color:#fff
 }
 
 a {
-    color: #000000;
-    text-decoration: none;
-    font-weight: 400;
+color:#000;
+text-decoration:none;
+font-weight:400
 }
 
 .bold {
-    font-weight: 700;
+font-weight:700
 }
 
 .green {
-    color: #009933;
+color:#093
 }
 
 .brown {
-    color: #996633;
+color:#963
 }
 
 .red {
-    color: #CC0000;
+color:#C00
 }
 
 .blue {
-    color: #333FFF;
+color:#333FFF
 }
 
 .purple {
-    color: #663399;
+color:#639
 }
 
 .orange {
-    color: #FF6600;
+color:#F60
 }
 
 .header {
-    font-weight: 700;
-    font-size: 3em;
+font-weight:700;
+font-size:3em
 }
 
 .tiny {
-    font-size: 0.8em;
+font-size:.8em
 }
 
 .subheader {
-    font-size: 1.5em;
+font-size:1.5em
 }
 
 .jumphead {
-    font-weight: 700;
-    font-size: 1.5em;
-    text-align: center;
+font-weight:700;
+font-size:1.5em;
+text-align:center
 }
 
 .content {
-    font-size: 1.05em;
-    text-align: justify;
-    line-height: 1.25em;
+font-size:1.05em;
+text-align:justify;
+line-height:1.25em
 }
 
 .nav {
-    font-size: 1.25em;
+font-size:1.25em
 }
 
 .rsvp {
-    font-size: 1.5em;
-    text-align: center;
+font-size:1.5em;
+text-align:center
 }
 
 #mainbody {
-    width: 750px;
-    margin: auto auto;
-    margin-top: 100px;
+width:750px;
+margin:auto;
+margin-top:100px
 }
 
 #content {
-    width: 600px;
-    margin: auto auto;
-    margin-top: 500px;
+width:600px;
+margin:auto;
+margin-top:500px
 }
